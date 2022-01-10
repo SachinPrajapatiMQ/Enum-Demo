@@ -1,0 +1,26 @@
+{
+  "id": "78c340e2-3a2c-41a1-9cf9-ba9353452c86",
+  "name": "Enum Demo",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0",
+  "target": "OnPrem"
+}
